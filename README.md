@@ -37,6 +37,7 @@ The goal is to deliver personalized perks to user groups, increase user loyalty,
   - Trip Frequency: Number of trips taken within a defined period
 
   ### **Dashboard:**
+<img width="1265" alt="Screenshot 2025-05-13 at 20 42 03" src="https://github.com/user-attachments/assets/c759ee08-a2dd-4b79-a7ee-ec7d37b98c7e" />
 
   ### **Insights:**
   - Dreamers:Frequent sessions and browsing, especially around holiday seasons.
