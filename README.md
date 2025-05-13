@@ -28,7 +28,7 @@ The goal is to deliver personalized perks to user groups, increase user loyalty,
 - DATA COLLECTION:Accessed structured datasets including;session activity logs,Trip booking history,user demographic attributes.
 - SEGMENTATION DESIGN:Applied rule-based segmentation using predefined behavioral thresholds
 - EXPLORATORY DATA ANALYSIS:Analyzed user behavior patterns across variables;Travel frequency,Destination preferences
-- Dashboard development:Built an interactive Tableau dashboard with Segment distribution,Engagement metrics and Filters for deeper exploration by user attributes
+- DASHBOARD DEVELOPMENT:Built an interactive Tableau dashboard with Segment distribution,Engagement metrics and Filters for deeper exploration by user attributes
 
   ### **Key Metrics and Features:**
   - Trip Frequency: Number of trips taken within a defined period
