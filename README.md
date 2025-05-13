@@ -38,7 +38,7 @@ The goal is to deliver personalized perks to user groups, increase user loyalty,
 
   ### **Dashboard:**
 <img width="1265" alt="Screenshot 2025-05-13 at 20 42 03" src="https://github.com/user-attachments/assets/c759ee08-a2dd-4b79-a7ee-ec7d37b98c7e" />
-
+https://public.tableau.com/app/profile/agbor.ofonde.ntui/viz/TravelTideProject_17452384456420/Dashboard2
   ### **Insights:**
   - Dreamers:Frequent sessions and browsing, especially around holiday seasons.
   - Family Travelers:Seasonal planners: Mostly travel during school holidays and peak family vacation windows.
